@@ -1,0 +1,2 @@
+101,Ram,2000,Male
+102,Sita,3000,Female
