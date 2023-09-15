@@ -1,2 +1,3 @@
 101,Ram,2000,Male
 102,Sita,3000,Female
+103,Kanha,5000,Male
